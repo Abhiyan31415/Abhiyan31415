@@ -1,15 +1,60 @@
 <h1 align="center">Hi 👋, I'm Abhiyan Khanal</h1>
-<h3 align="center">An AI/ML enthusiast</h3>
+<h3 align="center">AI/ML Enthusiast • Full-Stack Developer • Cloud Explorer</h3>
 
-- 🌱 I’m currently learning **Machine learning**
+---
 
-- 📫 How to reach me **abhiyankhanal7@gmail.com**
+🚀 I'm a passionate developer who loves turning **real-world challenges** into elegant, scalable software solutions.  
+I enjoy building full-stack applications using **modern JavaScript/TypeScript frameworks**, experimenting with **machine learning**, and deploying on the **cloud**.
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🎯 Why I'm a Great Fit for the Ninja Infosys Internship
+
+🌐 **Frontend**: Skilled in building dynamic, responsive UIs using **React**, **TypeScript**, and **JavaScript**.  
+🧠 **AI/ML**: Exploring TensorFlow and Python-based ML models to bring intelligent behavior into applications.  
+⚙️ **Backend**: Building RESTful APIs with **Node.js**, **Express**, and databases like MongoDB/PostgreSQL.  
+☁️ **Cloud**: Comfortable with **AWS services**, CI/CD pipelines, and deploying serverless or containerized apps.  
+🔁 **Mindset**: I thrive in collaborative teams and love contributing to tech that **improves lives**, especially in **e-Governance** and **civic tech**.
+
+---
+
+### 🛠️ Tech Stack
+
+#### 💻 Languages & Frameworks
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhiyan-khanal-4406b2248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhiyan-khanal-4406b2248/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/abhiyankhanal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/abhiyankhanal/" height="30" width="40" /></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+#### ☁️ Cloud & Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/>
+</p>
+
+---
+
+### 📫 Let's Connect
+
+- 📧 Email: **abhiyankhanal7@gmail.com**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/abhiyan-khanal-4406b2248/)  
+- 📸 [Instagram](https://www.instagram.com/abhiyankhanal/)
+
+---
+
+### 🧠 Currently Exploring
+
+- Real-time collaboration tools using **WebSockets + Node.js**
+- Building AI-powered features into full-stack web apps
+- Serverless functions and API Gateway on **AWS**
+
+---
+
+*Thanks for stopping by — let's build something impactful together!*
